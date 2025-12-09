@@ -123,6 +123,4 @@ Educational project using publicly available Netflix data. Analysis shows founda
 
 ---
 
-**Last Updated**: December 2023  
-**Status**: Work in Progress  
 **Purpose**: Educational Data Analysis
